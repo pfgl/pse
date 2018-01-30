@@ -6,7 +6,7 @@
 
             <div class="main" role="main">
 
-                <h1 class="page-title">Perspective Wealth News</h1>
+                <h1 class="page-title">Perspective South East News</h1>
 
                 <div class="posts">
 
